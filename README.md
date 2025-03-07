@@ -6,7 +6,7 @@ SAND overcomes the limitations of traditional land cover classification methods 
 
 ![image](https://github.com/user-attachments/assets/48be0168-04fd-4982-8417-a390515ca6f3)
 
-📄 **Paper:** *Fine-Scale Intra-Annual Land Cover Mapping: A Novel Approach for Capturing Sub-Annual Land Dynamics*  
+📄 **Paper:** *Fine-Scale Sub-Annual Land Cover Mapping: A Novel Approach for Capturing Land Dynamics*  
 
 ---
 
